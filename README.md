@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BreeAlinghawa
+- 👋 Hi, I’m bree
 - 👀 I’m interested in ... you. 
 - 🌱 Quasar Framework, Vue && Laravel
 - 💞️ I’m looking to collaborate on ...
