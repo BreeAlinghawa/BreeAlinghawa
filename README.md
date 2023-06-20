@@ -1,7 +1,5 @@
-- 👋 Hi, I’m bree
-- 👀 I’m interested in ... you. 
-- 🌱 Quasar Framework, Vue && Laravel
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Edmereen Aubrey Alinghawa
+- 🌱 Quasar Framework, Vue, HTML, CSS, Javascript, C#, .NET && Php Laravel
 - 📫 breealinghawa@gmail.com
 
 <!---
